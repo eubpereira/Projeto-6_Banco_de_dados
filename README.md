@@ -1,1 +1,2 @@
-# Projeto-6_Banco_de_dados
+# Projeto 6
+Projeto voltado para entendimento em Banco de dados.
